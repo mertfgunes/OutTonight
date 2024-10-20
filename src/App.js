@@ -1,6 +1,7 @@
 import Home from './pages/Home'
 import Dashboard from './pages/Dashboard'
 import OnBoarding from './pages/OnBoarding'
+
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 const App = () => {
