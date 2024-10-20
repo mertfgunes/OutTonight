@@ -1,6 +1,6 @@
 const OnBoarding = () => {
     return (
-        <div></div>
+        <div>OnBoarding</div>
     )
 }
 export default OnBoarding
