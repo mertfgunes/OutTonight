@@ -10,6 +10,7 @@ const Home = () => {
 
     return (
         <>
+            <Nav/>
         <div className = "home">
             <h1> Swipe Right</h1>
             <button className= "primary-button" onClick={handleClick}>
